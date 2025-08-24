@@ -1,0 +1,2 @@
+# mygo-Photo
+Local cloud
